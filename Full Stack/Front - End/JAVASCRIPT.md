@@ -4,4 +4,5 @@
 	* Var - The [****var****](https://www.geeksforgeeks.org/javascript-var/) is the oldest keyword to declare a variable in [JavaScript](https://www.geeksforgeeks.org/introduction-to-javascript/). It has the [Global scoped](https://www.geeksforgeeks.org/understanding-variable-scopes-in-javascript/#:~:text=types%20of%20scopes-,Global%20Scope,-%E2%80%93%20Scope%20outside%20the) or function scoped
 	* Let - The [let keyword](https://www.geeksforgeeks.org/javascript-let/) is an improved version of the [var keyword](https://www.geeksforgeeks.org/javascript-var/). It is introduced in the ES6 or EcmaScript 2015. These variables has the [block scope](https://www.geeksforgeeks.org/what-are-block-scoped-variables-and-functions-in-es6/). It can’t be accessible outside the particular code block.
 	* Const - The [const keyword](https://www.geeksforgeeks.org/javascript-const/) has all the properties that are the same as the [let keyword](https://www.geeksforgeeks.org/javascript-let/), except the user cannot update it and have to assign it with a value at the time of declaration. These variables also have the [block scope](https://www.geeksforgeeks.org/what-are-block-scoped-variables-and-functions-in-es6/). It is mainly used to create constant variables whose values can not be changed once they are initialized with a value.
-2) 
+2)  Commands can be given as // or /* * /
+3) 

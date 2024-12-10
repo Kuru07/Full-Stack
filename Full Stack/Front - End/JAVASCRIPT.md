@@ -5,4 +5,4 @@
 	* Let - The [let keyword](https://www.geeksforgeeks.org/javascript-let/) is an improved version of the [var keyword](https://www.geeksforgeeks.org/javascript-var/). It is introduced in the ES6 or EcmaScript 2015. These variables has the [block scope](https://www.geeksforgeeks.org/what-are-block-scoped-variables-and-functions-in-es6/). It can’t be accessible outside the particular code block.
 	* Const - The [const keyword](https://www.geeksforgeeks.org/javascript-const/) has all the properties that are the same as the [let keyword](https://www.geeksforgeeks.org/javascript-let/), except the user cannot update it and have to assign it with a value at the time of declaration. These variables also have the [block scope](https://www.geeksforgeeks.org/what-are-block-scoped-variables-and-functions-in-es6/). It is mainly used to create constant variables whose values can not be changed once they are initialized with a value.
 2)  Commands can be given as // or /* * /
-3) 
+3) Hello

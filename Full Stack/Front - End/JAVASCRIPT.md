@@ -57,3 +57,9 @@ function goStore()
 
 
 ```
+5) To put a quotation in string 
+```
+" Hllo my world \"jack\"  "
+
+```
+6) 

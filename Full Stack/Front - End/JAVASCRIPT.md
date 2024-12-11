@@ -116,3 +116,5 @@ To this
 ```
 
 ```
+6) ``` .shift method is used to remove the first element in array and written it
+```

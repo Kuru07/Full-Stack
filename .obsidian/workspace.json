@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack/Front - End/JAVASCRIPT.md",
+                "file": "Full Stack/Front - End/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JAVASCRIPT"
+              "title": "HTML"
             }
           }
         ],
@@ -180,6 +180,7 @@
   },
   "active": "c7b357f83da9d767",
   "lastOpenFiles": [
+    "Full Stack/Front - End/JAVASCRIPT.md",
     "Full Stack/Front - End/CSS.md",
     "Attachments/Pasted image 20241207195421.png",
     "Attachments/Pasted image 20241207195138.png",
@@ -194,7 +195,6 @@
     "Attachments/Pasted image 20241204193126.png",
     "Attachments",
     "Full Stack/Front - End/Frontend.md",
-    "Full Stack/Front - End/JAVASCRIPT.md",
     "src.md",
     "Full Stack/Back - End/Backend.md",
     "Full Stack/Back - End/Mongo-DB.md",

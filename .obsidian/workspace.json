@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack/Front - End/HTML.md",
+                "file": "Full Stack/Back - End/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "API"
             }
           }
         ],
@@ -180,6 +180,11 @@
   },
   "active": "c7b357f83da9d767",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241216124143.png",
+    "Full Stack/Back - End/Backend.md",
+    "Full Stack/Back - End/API.md",
+    "Untitled.md",
+    "Full Stack/Front - End/HTML.md",
     "Full Stack/Front - End/JAVASCRIPT.md",
     "Full Stack/Front - End/CSS.md",
     "Attachments/Pasted image 20241207195421.png",
@@ -187,7 +192,6 @@
     "Attachments/Pasted image 20241207182223.png",
     "Attachments/Pasted image 20241207182221.png",
     "Attachments/Pasted image 20241207180119.png",
-    "Full Stack/Front - End/HTML.md",
     "Attachments/Pasted image 20241207174731.png",
     "Attachments/Pasted image 20241207174506.png",
     "Attachments/Pasted image 20241207174243.png",
@@ -196,9 +200,7 @@
     "Attachments",
     "Full Stack/Front - End/Frontend.md",
     "src.md",
-    "Full Stack/Back - End/Backend.md",
     "Full Stack/Back - End/Mongo-DB.md",
-    "Untitled.md",
     "Full Stack/Full Stack.md",
     "Full Stack/Back - End",
     "Full Stack/Front - End",
